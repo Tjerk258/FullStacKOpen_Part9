@@ -1,0 +1,6 @@
+Post http://localhost:3001/api/diagnoses http/1.1
+content-type: application/json
+
+{
+  "name": "sample"
+}
